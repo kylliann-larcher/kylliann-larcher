@@ -1,9 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm LARCHER Kylliann</h1>
 <h3 align="center">Every line of code tells a story, every site an experience.</h3>
-🌱 Étudiant en informatique et passionné par la musculation et la boxe.  
-🛠️ Développeur débutant en Python, HTML, et Markdown.  
-🚀 En quête d'une alternance pour développer mes compétences en intelligence artificiel.  
 
 - 🔭 I’m currently working on [Tic Tac Toe Online Game](lien)
 
