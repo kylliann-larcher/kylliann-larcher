@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banniere_kylliann" alt="Bannière GitHub" width="100%">
+</p>
 
 <h1 align="center">Hi 👋, I'm LARCHER Kylliann</h1>
 <h3 align="center">Every line of code tells a story, every site an experience.</h3>
@@ -27,6 +30,7 @@
 <a href="https://twitter.com/kylliannlarcher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kylliannlarcher" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kylliann-larcher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kylliann-larcher" height="30" width="40" /></a>
 <a href="https://fb.com/larcher-kylliann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="larcher-kylliann" height="30" width="40" /></a>
+  
 <a href="https://instagram.com/kyllcerp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kyllcerp" height="30" width="40" /></a>
 </p>
 
