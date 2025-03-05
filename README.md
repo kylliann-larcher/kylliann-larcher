@@ -2,7 +2,7 @@
   <img src="https://github.com/kylliann-larcher/kylliann-larcher/blob/main/banniere_kylliann1.png?raw=true" alt="Bannière GitHub" width="100%">
 </p>
 
-<h1 align="center">👋 Bonjour, je suis LARCHER Kylliann</h1>
+<h1 align="center"> Bonjour, je suis LARCHER Kylliann</h1>
 <h3 align="center">🔍 Alternant Data & Systèmes | Passionné par l'IA, l'Infrastructure et l'Automatisation.</h3>
 
 ## 🚀 À propos de moi  
