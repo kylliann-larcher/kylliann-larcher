@@ -17,7 +17,7 @@
 
 ## 📂 Mes Projets  
 🔹 **[Tic Tac Toe Online](https://github.com/manuel-garcin/Tic-Tac-Toe-Escouade.git)** → Développement d’un jeu en Python avec une IA basique  
-🔹 **[Fan Site Batman]([lien](https://github.com/AlexisNguemby/ProjectFan.git))** → Utilisation de HTML/CSS/JAVA SCRIPT 
+🔹 **[Fan Site Batman](https://github.com/AlexisNguemby/ProjectFan.git)** → Utilisation de HTML/CSS/JAVA SCRIPT 
 🔹 **[Automatisation Linux](lien)** → Script Bash pour la gestion des fichiers et logs  
 🔹 **[API Flask](lien)** → Création d’une API REST pour récupérer des données  
 
