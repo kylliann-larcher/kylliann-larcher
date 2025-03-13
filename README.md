@@ -1,58 +1,54 @@
+# 🎯 Bienvenue sur mon GitHub !
+
 <p align="center">
   <img src="https://github.com/kylliann-larcher/kylliann-larcher/blob/main/banniere_kylliann1.png?raw=true" alt="Bannière GitHub" width="100%">
 </p>
 
-<h1 align="center"> Bonjour, je suis LARCHER Kylliann</h1>
-<h3 align="center">🔍 Alternant Data & Systèmes | Passionné par l'IA, l'Infrastructure et l'Automatisation.</h3>
+<h1 align="center">LARCHER Kylliann</h1>
+<h3 align="center">🚀 Alternant en Intelligence Artificielle & Data Science | Optimisation & Automatisation</h3>
 
-## 🚀 À propos de moi  
+## 📌 À propos de moi
 
-- 🎯 **À la recherche d’une alternance en Data / Systèmes dès septembre 2025**  
-- 🛠️ Expérience en **Linux, Git, Python, SQL, Power BI**  
-- 📊 Création de **tableaux de bord interactifs et automatisation de processus**  
-- 💡 Passionné par les **systèmes d’exploitation, la cybersécurité et le cloud**  
-- 🤝 Toujours prêt à échanger sur **les nouvelles technologies et l’IA appliquée**  
+💡 **Je développe des solutions IA et Data Science pour automatiser, optimiser et analyser les systèmes complexes.**
 
----
-
-## 📂 Mes Projets  
-🔹 **[Tic Tac Toe Online](https://github.com/manuel-garcin/Tic-Tac-Toe-Escouade.git)** → Développement d’un jeu en Python avec une IA basique  
-🔹 **[Fan Site Batman](https://github.com/AlexisNguemby/ProjectFan.git)** → Utilisation de HTML/CSS/JAVA SCRIPT 
-🔹 **[Automatisation Linux](lien)** → Script Bash pour la gestion des fichiers et logs  
-🔹 **[API Flask](https://github.com/kylliann-larcher/Poke_API.git)** → Création d’une API REST pour récupérer des données
-🔹 **[LE PENDU GAME](https://github.com/kylliann-larcher/Projet_pendu.git)** → Développement d’un jeu en Python avec des effets sonores
+- 🎯 **En recherche d’une alternance IA & Data dès septembre 2025** 
+- 🛠 **Expertise en Machine Learning, Data Science & Automatisation**
+- 📊 **Optimisation des flux de données et modélisation prédictive**
+- 🔍 **Passionné par l’IA appliquée à l’optimisation des infrastructures et des systèmes**
 
 ---
 
-## 📬 Me Contacter  
+## 🚀 Mes Projets Clés
+
+🔹 **[Tic Tac Toe Online](https://github.com/manuel-garcin/Tic-Tac-Toe-Escouade.git)** → Développement d’un jeu en Python avec une IA Minimax optimisée.  
+🔹 **[Fan Site Batman](https://github.com/AlexisNguemby/ProjectFan.git)** → Création d’un site interactif avec HTML/CSS/JavaScript et optimisation UX/UI.  
+🔹 **[Automatisation Linux](lien)** → Script Bash automatisant la gestion et l’archivage des fichiers/logs.  
+🔹 **[API Flask](https://github.com/kylliann-larcher/Poke_API.git)** → Développement d’une API REST pour récupération et structuration de données.  
+🔹 **[LE PENDU GAME](https://github.com/kylliann-larcher/Projet_pendu.git)** → Jeu Python avec gestion avancée des entrées et effets sonores.
+
+📌 **Tous mes projets incluent un README détaillé pour faciliter leur exécution et compréhension.**
+
+---
+
+## 🛠️ Compétences & Outils
+
+### 🔍 Data Science & Machine Learning
+✅ Python (Pandas, NumPy, scikit-learn, TensorFlow)  
+✅ Modélisation & Analyse de données (SQL, NoSQL, Power BI)  
+✅ Automatisation des flux et gestion des API (Flask, FastAPI, Linux)
+
+### ⚡ Développement & Infrastructures
+✅ Développement Backend (Flask, API REST)  
+✅ Systèmes et Administration (Linux, Bash, Docker)  
+✅ Git, Trello, Méthodologies Agile
+
+---
+
+## 📬 Me Contacter
 📩 **Email** : kylliann.larcher@laplateforme.io  
 💼 **LinkedIn** : [kylliann-larcher](https://linkedin.com/in/kylliann-larcher)  
 🐦 **Twitter** : [@kylliannlarcher](https://twitter.com/kylliannlarcher)  
 
----
+🔗 **Mon Portfolio** : *(lien)*  
 
-## 🛠️ Langages & Outils  
-
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/fr-fr/power-platform/products/power-bi" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-  </a>
-  <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="Google BigQuery" width="40" height="40"/>
-  </a>
-</p>
+📌 **Toujours ouvert aux discussions sur l’IA, la Data Science et l’automatisation !**
