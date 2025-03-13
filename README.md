@@ -22,7 +22,6 @@
 
 🔹 **[Tic Tac Toe Online](https://github.com/manuel-garcin/Tic-Tac-Toe-Escouade.git)** → Développement d’un jeu en Python avec une IA Minimax optimisée.  
 🔹 **[Fan Site Batman](https://github.com/AlexisNguemby/ProjectFan.git)** → Création d’un site interactif avec HTML/CSS/JavaScript et optimisation UX/UI.  
-🔹 **[Automatisation Linux](lien)** → Script Bash automatisant la gestion et l’archivage des fichiers/logs.  
 🔹 **[API Flask](https://github.com/kylliann-larcher/Poke_API.git)** → Développement d’une API REST pour récupération et structuration de données.  
 🔹 **[LE PENDU GAME](https://github.com/kylliann-larcher/Projet_pendu.git)** → Jeu Python avec gestion avancée des entrées et effets sonores.
 
