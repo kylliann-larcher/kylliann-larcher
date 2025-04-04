@@ -7,25 +7,54 @@
 <h1 align="center">LARCHER Kylliann</h1>
 <h3 align="center">🚀 Alternant en Intelligence Artificielle & Data Science | Optimisation & Automatisation</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kylliann-larcher&style=flat-square&color=blue" alt="Visiteurs" />
+</p>
+
+---
+
 ## 📌 À propos de moi
 
 💡 **Je développe des solutions IA et Data Science pour automatiser, optimiser et analyser les systèmes complexes.**
 
-- 🎯 **En recherche d’une alternance IA & Data dès septembre 2025** 
-- 🛠 **Expertise en Machine Learning, Data Science & Automatisation**
-- 📊 **Optimisation des flux de données et modélisation prédictive**
-- 🔍 **Passionné par l’IA appliquée à l’optimisation des infrastructures et des systèmes**
+---
+
+### 🧠 **Actuellement en recherche d’une alternance IA & Data dès septembre 2025 !**
+✅ Rythme souhaité : 3 semaines entreprise / 1 semaine école  
+✅ Localisation : France entière + télétravail  
+✅ Secteurs visés : IA appliquée, data science, automatisation intelligente, systèmes complexes
+
+📩 [Contacte-moi](mailto:kylliann.larcher@laplateforme.io) si tu recrutes un profil ambitieux, rigoureux et passionné par l’IA !
 
 ---
 
 ## 🚀 Mes Projets Clés
 
-🔹 **[Tic Tac Toe Online](https://github.com/manuel-garcin/Tic-Tac-Toe-Escouade.git)** → Développement d’un jeu en Python avec une IA Minimax optimisée.  
-🔹 **[Fan Site Batman](https://github.com/AlexisNguemby/ProjectFan.git)** → Création d’un site interactif avec HTML/CSS/JavaScript et optimisation UX/UI.  
-🔹 **[API Flask](https://github.com/kylliann-larcher/Poke_API.git)** → Développement d’une API REST pour récupération et structuration de données.  
-🔹 **[LE PENDU GAME](https://github.com/kylliann-larcher/Projet_pendu.git)** → Jeu Python avec gestion avancée des entrées et effets sonores.
+🔹 **[Tic Tac Toe Online](https://github.com/manuel-garcin/Tic-Tac-Toe-Escouade.git)** → Jeu multijoueur avec IA Minimax en Python.  
+🔹 **[Fan Site Batman](https://github.com/AlexisNguemby/ProjectFan.git)** → Site interactif sur l’univers Batman (HTML/CSS/JS).  
+🔹 **[Poke_API](https://github.com/kylliann-larcher/Poke_API.git)** → API Flask RESTful pour interroger des données Pokémon.  
+🔹 **[Projet Pendu](https://github.com/kylliann-larcher/Projet_pendu.git)** → Jeu Python avec gestion d'entrées, effets sonores & logique renforcée.  
+🔹 **[Sudoku Solver](https://github.com/kylliann-larcher/Sudoku-solver)** → Résolution automatique de Sudoku avec algorithme backtracking.  
+🔹 **[Sorting Algorithms](https://github.com/kylliann-larcher/sorting-algorithms)** → Visualisation et implémentation de plusieurs algorithmes de tri.  
+🔹 **[Budget Buddy](https://github.com/kylliann-larcher/Budget_buddy)** → Application Python de gestion budgétaire et de prévision des dépenses.  
+🔹 **[Runtrack BDD Python](https://github.com/kylliann-larcher/runtrack-BDD-python)** → Exercices de manipulation de bases de données avec Python.  
+🔹 **[Runtrack Python POO](https://github.com/kylliann-larcher/runtrack-python-poo)** → Série d’exercices orientée objets en Python pour affiner les concepts POO.  
+🔹 **[Calculator](https://github.com/kylliann-larcher/calculator)** → Calculatrice console en Python avec logique modulaire.  
+🔒 **Tic Tac Toe (Projet privé)** → Jeu Python terminal avec IA (Minimax), sans interface graphique, codé en pur Python.
 
-📌 **Tous mes projets incluent un README détaillé pour faciliter leur exécution et compréhension.**
+📌 **Tous mes projets incluent un README clair pour faciliter l’utilisation et la compréhension rapide.**
+
+---
+
+## 📊 Statistiques GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kylliann-larcher&show_icons=true&theme=default" alt="Statistiques GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kylliann-larcher&layout=compact&theme=default" alt="Langages les plus utilisés" />
+</p>
 
 ---
 
@@ -33,13 +62,13 @@
 
 ### 🔍 Data Science & Machine Learning
 ✅ Python (Pandas, NumPy, scikit-learn, TensorFlow)  
-✅ Modélisation & Analyse de données (SQL, NoSQL, Power BI)  
-✅ Automatisation des flux et gestion des API (Flask, FastAPI, Linux)
+✅ Analyse & Visualisation (SQL, NoSQL, Power BI)  
+✅ Automatisation (Flask, FastAPI, API, Linux)
 
 ### ⚡ Développement & Infrastructures
-✅ Développement Backend (Flask, API REST)  
-✅ Systèmes et Administration (Linux, Bash, Docker)  
-✅ Git, Trello, Méthodologies Agile
+✅ Backend (Flask, API REST)  
+✅ Systèmes (Linux, Bash, Docker)  
+✅ Git, Trello, Agile
 
 ---
 
@@ -48,6 +77,10 @@
 💼 **LinkedIn** : [kylliann-larcher](https://linkedin.com/in/kylliann-larcher)  
 🐦 **Twitter** : [@kylliannlarcher](https://twitter.com/kylliannlarcher)  
 
-🔗 **Mon Portfolio** : *(lien)*  
+🔗 **Mon Portfolio** : *(à insérer ici)*  
 
 📌 **Toujours ouvert aux discussions sur l’IA, la Data Science et l’automatisation !**
+
+---
+
+<!-- End of README -->
