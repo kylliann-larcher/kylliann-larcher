@@ -77,7 +77,7 @@
 💼 **LinkedIn** : [kylliann-larcher](https://linkedin.com/in/kylliann-larcher)  
 🐦 **Twitter** : [@kylliannlarcher](https://twitter.com/kylliannlarcher)  
 
-🔗 **Mon Portfolio** : *(à insérer ici)*  
+🔗 **Mon Portfolio** : [Kylliann-larcher](https://kylliann-larcher.students-laplateforme.io/) 
 
 📌 **Toujours ouvert aux discussions sur l’IA, la Data Science et l’automatisation !**
 
