@@ -20,8 +20,8 @@
 ---
 
 ### 🧠 **Actuellement en recherche d’une alternance IA & Data dès septembre 2025 !**
-✅ Rythme souhaité : 3 semaines entreprise / 1 semaine école  
-✅ Localisation : France entière + télétravail  
+✅ Rythme souhaité : 4 semaines entreprise / 1 semaine école  
+✅ Localisation : France entière  
 ✅ Secteurs visés : IA appliquée, data science, automatisation intelligente, systèmes complexes
 
 📩 [Contacte-moi](mailto:kylliann.larcher@laplateforme.io) si tu recrutes un profil ambitieux, rigoureux et passionné par l’IA !
