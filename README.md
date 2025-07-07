@@ -35,14 +35,18 @@
 
 | Projet | Description | Lien |
 |--------|-------------|------|
+| 📊 Netflix Insights | DataViz avancée avec Pandas, Power BI et Matplotlib | [🔗 GitHub](https://github.com/kylliann-larcher/netflix-data-analysis) |
+| 🌱 Bonatica Iris (R) | Classification supervisée avec R sur dataset Iris | [🔗 GitHub](https://github.com/axel-achart/Project_R1_Name) |
+| 🏦 Bank Marketing | Prédiction d’abonnement bancaire avec PyCaret | [🔗 GitHub](https://github.com/axel-achart/bank-marketing) |
+| ⚰️ Dr Death | Analyse des meurtres de Shipman (Python & Power BI) | [🔗 GitHub](https://github.com/axel-achart/dr-death) |
+| 🧱 Auto Sokoban Solver | IA pour résoudre automatiquement des puzzles Sokoban | [🔗 GitHub](https://github.com/axel-achart/auto-sokoban) |
 | 🧠 Tic Tac Toe IA | Jeu multijoueur avec IA Minimax | [🔗 GitHub](https://github.com/manuel-garcin/Tic-Tac-Toe-Escouade.git) |
-| 🦇 Fan Site Batman | Site web interactif (HTML/CSS/JS) | [🔗 GitHub](https://github.com/AlexisNguemby/ProjectFan.git) |
-| 🐍 Poke_API | API Flask pour données Pokémon | [🔗 GitHub](https://github.com/kylliann-larcher/Poke_API.git) |
-| 🧩 Sudoku Solver | Résolution par backtracking (Python) | [🔗 GitHub](https://github.com/kylliann-larcher/Sudoku-solver) |
-| 💰 Budget Buddy | App Python de gestion budgétaire | [🔗 GitHub](https://github.com/kylliann-larcher/Budget_buddy) |
-| 🔄 Sorting Algorithms | Visualisation d’algorithmes de tri | [🔗 GitHub](https://github.com/kylliann-larcher/sorting-algorithms) |
-| 📊 Netflix Insights | Analyse et visualisation des données Netflix | [🔗 GitHub](https://github.com/kylliann-larcher/netflix-data-analysis) |
-| 🌱 Bonatica Iris (R) | Analyse statistique du dataset Iris avec R | [🔗 GitHub](https://github.com/axel-achart/Project_R1_Name) |
+| 🐍 Poke_API | API Flask pour interroger les données Pokémon | [🔗 GitHub](https://github.com/kylliann-larcher/Poke_API.git) |
+| 🧩 Sudoku Solver | Résolution automatisée par backtracking | [🔗 GitHub](https://github.com/kylliann-larcher/Sudoku-solver) |
+| 💰 Budget Buddy | App de gestion budgétaire avec Python | [🔗 GitHub](https://github.com/kylliann-larcher/Budget_buddy) |
+| 🔄 Sorting Algorithms | Visualisation animée de tris (Python + Pygame) | [🔗 GitHub](https://github.com/kylliann-larcher/sorting-algorithms) |
+
+
 
 📌 *Tous mes projets incluent un README clair, des instructions d’utilisation et un code bien structuré.*
 
