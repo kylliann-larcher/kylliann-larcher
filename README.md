@@ -1,8 +1,6 @@
 # 🎯 Bienvenue sur mon GitHub !
 
-<p align="center">
-  <img src="https://github.com/kylliann-larcher/kylliann-larcher/blob/main/banniere_kylliann1.png?raw=true" alt="Bannière GitHub" width="100%">
-</p>
+
 
 <h1 align="center">LARCHER Kylliann</h1>
 <h3 align="center">🚀 Alternant en Intelligence Artificielle & Data Science | Passionné par l'optimisation et l'automatisation</h3>
