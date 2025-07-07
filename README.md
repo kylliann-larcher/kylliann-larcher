@@ -35,7 +35,7 @@
 
 | Projet | Description | Lien |
 |--------|-------------|------|
-| 📊 Netflix Insights | DataViz avancée avec Pandas, Power BI et Matplotlib | [🔗 GitHub](https://github.com/kylliann-larcher/netflix-data-analysis) |
+| 📊 Netflix Insights | DataViz avancée avec Pandas, Power BI et Matplotlib | [🔗 GitHub](https://github.com/axel-achart/netflix-insights) |
 | 🌱 Bonatica Iris (R) | Classification supervisée avec R sur dataset Iris | [🔗 GitHub](https://github.com/axel-achart/Project_R1_Name) |
 | 🏦 Bank Marketing | Prédiction d’abonnement bancaire avec PyCaret | [🔗 GitHub](https://github.com/axel-achart/bank-marketing) |
 | ⚰️ Dr Death | Analyse des meurtres de Shipman (Python & Power BI) | [🔗 GitHub](https://github.com/axel-achart/dr-death) |
