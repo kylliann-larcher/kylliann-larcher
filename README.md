@@ -13,9 +13,9 @@
 
 ## 👨‍💻 À propos de moi
 
-💡 Étudiant en Bachelor IT – spécialité Intelligence Artificielle à La Plateforme_  
-🔍 Je développe des solutions Data & IA pour automatiser, visualiser et analyser efficacement les données.  
-🚀 Je suis motivé par les projets à impact concret, l’apprentissage continu et le travail bien fait.
+🎓 Bachelor IT Data & IA @ La Plateforme_
+🚀 Futur Alternant - Analyse & Traitement de Données d’Essai @ TechnicAtome
+💡 Passionné par l’IA, la Data Science & le Machine Learning
 
 ---
 
