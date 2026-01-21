@@ -1,7 +1,7 @@
 # 🎯 Bienvenue sur mon GitHub !
 
 <h1 align="center">Kylliann LARCHER</h1>
-<h3 align="center">🚀 Futur Alternant — Analyste & Traitement de Données d’Essai @ TechnicAtome | Data & IA</h3>
+<h3 align="center">🚀 Alternant — Analyste & Traitement de Données d’Essai | Data & IA</h3>
 
 <p align="center">
   <a href="mailto:kylliann.larcher@laplateforme.io">📧 Me contacter</a> •
@@ -18,7 +18,7 @@
 ## 👨‍💻 À propos
 
 - 🎓 Bachelor IT **Data & IA** — La Plateforme_ (Marseille)  
-- 🧪 **Futur Alternant @ TechnicAtome** — Analyse & Traitement de Données d’Essai (2025–2027)  
+- 🧪 **Alternant** — Analyse & Traitement de Données d’Essai (**depuis 2025-10-13**, 2025–2027)  
 - 💡 Intérêts : séries temporelles capteurs, **traitement du signal**, détection d’anomalies, **visualisation** et **ML** appliqué
 
 ---
@@ -27,7 +27,7 @@
 
 | Projet | Description | Tech | Liens |
 |---|---|---|---|
-| **Détection de signaux faibles** | Pipeline de prétraitement (filtrage, lissage), détection de pics, scoring, validations | Python, NumPy, SciPy, scikit-learn | [GitHub](https://github.com/kylliann-larcher/detection-signaux-faibles)· |
+| **Détection de signaux faibles** | Pipeline de prétraitement (filtrage, lissage), détection de pics, scoring, validations | Python, NumPy, SciPy, scikit-learn | [GitHub](https://github.com/kylliann-larcher/kylliann-larcher) |
 | **Data-IA Dashboard** | Dashboard interactif multi-fichiers (stats, corrélation, anomalies, comparatifs) | Python, Plotly/Dash, Pandas | [GitHub](https://github.com/kylliann-larcher/data-ia-dashboard) |
 | **Sorting Algorithms (viz)** | Visualisation animée des tris pour l’apprentissage | Python, Pygame | [GitHub](https://github.com/kylliann-larcher/sorting-algorithms) |
 | **Sudoku Solver** | Résolution par backtracking + interface simple | Python | [GitHub](https://github.com/kylliann-larcher/Sudoku-solver) |
@@ -65,4 +65,4 @@
 
 ---
 
-**Toujours partant pour parler Data, IA, optimisation et visualisation.**  
+**Toujours partant pour parler Data, IA, optimisation et visualisation.**
