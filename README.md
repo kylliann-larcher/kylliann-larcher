@@ -8,12 +8,13 @@ Data & IA · Je construis des projets IA et je décortique ce qui bloque entre l
 
 ## En ce moment
 
-Je publie sur LinkedIn une série sur les goulots d'étranglement de l'IA : données, évaluation, coût et latence, intégration. Le code de chaque épisode sera publié ici.
+Je publie sur LinkedIn une série sur les goulots d'étranglement de l'IA : données, évaluation, coût et latence, intégration. Le code de chaque épisode est publié ici, en commençant par l'évaluation avec [ai-eval-lab](https://github.com/kylliann-larcher/ai-eval-lab).
 
 ## Projets
 
 | Projet | Ce qu'il fait | Stack |
 |---|---|---|
+| [ai-eval-lab](https://github.com/kylliann-larcher/ai-eval-lab) | Montre le piège de l'accuracy sur des anomalies rares, puis évalue un RAG : recall@k, régressions entre deux versions, fiabilité du contrôle automatique | Python, scikit-learn, pytest, GitHub Actions |
 | [amazing-mazes](https://github.com/kylliann-larcher/amazing-mazes) | Génère et résout des labyrinthes, puis compare les algorithmes sur leurs performances et leurs limites | Python |
 | [Sudoku-solver](https://github.com/kylliann-larcher/Sudoku-solver) | Résout des grilles par force brute et par backtracking, pour comparer les deux approches | Python, POO |
 | [miel-abeilles](https://github.com/kylliann-larcher/miel-abeilles) | Algorithme génétique qui cherche le trajet le plus court d'une colonie d'abeilles entre des fleurs | Python |
