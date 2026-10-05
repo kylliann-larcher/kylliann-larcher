@@ -1,68 +1,25 @@
-# 🎯 Bienvenue sur mon GitHub !
+# Kylliann Larcher
 
-<h1 align="center">Kylliann LARCHER</h1>
-<h3 align="center">🚀 Alternant — Analyste & Traitement de Données d’Essai | Data & IA</h3>
+Data & IA · Je construis des projets IA et je décortique ce qui bloque entre la démo et la prod.
 
-<p align="center">
-  <a href="mailto:kylliann.larcher@laplateforme.io">📧 Me contacter</a> •
-  <a href="https://www.linkedin.com/in/kylliann-larcher" target="_blank" rel="noopener">LinkedIn</a> •
-  <a href="https://kylliann-larcher.students-laplateforme.io" target="_blank" rel="noopener">Portfolio</a>
-</p>
+Étudiant en Bachelor Data & IA à La Plateforme_ (Marseille), en alternance data dans l'industrie.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kylliann-larcher&style=flat-square&color=blue" alt="Visiteurs" />
-</p>
+[LinkedIn](https://www.linkedin.com/in/kylliann-larcher/) · [Portfolio](https://kylliann-larcher.students-laplateforme.io/) · kylliann.larcher@laplateforme.io
 
----
+## En ce moment
 
-## 👨‍💻 À propos
+Je publie sur LinkedIn une série sur les goulots d'étranglement de l'IA : données, évaluation, coût et latence, intégration. Le code de chaque épisode sera publié ici.
 
-- 🎓 Bachelor IT **Data & IA** — La Plateforme_ (Marseille)  
-- 🧪 **Alternant** — Analyse & Traitement de Données d’Essai (**depuis 2025-10-13**, 2025–2027)  
-- 💡 Intérêts : séries temporelles capteurs, **traitement du signal**, détection d’anomalies, **visualisation** et **ML** appliqué
+## Projets
 
----
+| Projet | Ce qu'il fait | Stack |
+|---|---|---|
+| [amazing-mazes](https://github.com/kylliann-larcher/amazing-mazes) | Génère et résout des labyrinthes, puis compare les algorithmes sur leurs performances et leurs limites | Python |
+| [Sudoku-solver](https://github.com/kylliann-larcher/Sudoku-solver) | Résout des grilles par force brute et par backtracking, pour comparer les deux approches | Python, POO |
+| [miel-abeilles](https://github.com/kylliann-larcher/miel-abeilles) | Algorithme génétique qui cherche le trajet le plus court d'une colonie d'abeilles entre des fleurs | Python |
+| [sorting-algorithms](https://github.com/kylliann-larcher/sorting-algorithms) | Visualise pas à pas les algorithmes de tri | Python, Pygame |
+| [Budget_buddy](https://github.com/kylliann-larcher/Budget_buddy) | Application de gestion de comptes avec interface graphique | Python |
 
-## 🚀 Projets Clés (cohérents avec mon portfolio)
+## Stack
 
-| Projet | Description | Tech | Liens |
-|---|---|---|---|
-| **Détection de signaux faibles** | Pipeline de prétraitement (filtrage, lissage), détection de pics, scoring, validations | Python, NumPy, SciPy, scikit-learn | [GitHub](https://github.com/kylliann-larcher/kylliann-larcher) |
-| **Data-IA Dashboard** | Dashboard interactif multi-fichiers (stats, corrélation, anomalies, comparatifs) | Python, Plotly/Dash, Pandas | [GitHub](https://github.com/kylliann-larcher/data-ia-dashboard) |
-| **Sorting Algorithms (viz)** | Visualisation animée des tris pour l’apprentissage | Python, Pygame | [GitHub](https://github.com/kylliann-larcher/sorting-algorithms) |
-| **Sudoku Solver** | Résolution par backtracking + interface simple | Python | [GitHub](https://github.com/kylliann-larcher/Sudoku-solver) |
-| **Budget Buddy** | App de gestion budgétaire et visualisation | Python (Pandas/Matplotlib) | [GitHub](https://github.com/kylliann-larcher/Budget_buddy) |
-| **Poke_API** | API Flask qui interroge des données Pokémon | Python, Flask, REST | [GitHub](https://github.com/kylliann-larcher/Poke_API) |
-
----
-
-## 🧰 Compétences
-
-**Data/IA** : Python (Pandas, NumPy, scikit-learn), SciPy, traitement du signal, séries temporelles, visualisation (Matplotlib, Plotly)  
-**Web & API** : Flask, REST, JSON  
-**Data tools** : Jupyter, SQL  
-**Ops** : Git/GitHub, Linux, Docker *(bases)*  
-**Front** : HTML/CSS/JS *(portfolio)*
-
----
-
-## 📊 Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kylliann-larcher&show_icons=true&theme=default" alt="Stats GitHub" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kylliann-larcher&layout=compact&theme=default" alt="Langages" />
-</p>
-
----
-
-## 📬 Me contacter
-
-- 📧 **Email** : kylliann.larcher@laplateforme.io  
-- 🌐 **Portfolio** : [kylliann-larcher.students-laplateforme.io](https://kylliann-larcher.students-laplateforme.io)  
-- 💼 **LinkedIn** : [linkedin.com/in/kylliann-larcher](https://www.linkedin.com/in/kylliann-larcher)
-
----
-
-**Toujours partant pour parler Data, IA, optimisation et visualisation.**
+Python (Pandas, NumPy, SciPy, scikit-learn, PyTorch) · SQL · Plotly, Dash · Git, Linux, Docker (bases)
